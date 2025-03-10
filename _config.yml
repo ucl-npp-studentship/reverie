@@ -9,7 +9,7 @@ name: UCL NPP Summer Studentship
 author: Daniel Bush
 
 # Short bio or description (displayed in the header)
-description: Funding summer research projects at UCL
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -24,12 +24,12 @@ footer-links:
   email: d.bush@ucl.ac.uk
   facebook:
   flickr:
-  github: ucl-npp-studentship
+  github:
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: 
+  twitter: https://x.com/uclnpp
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -89,7 +89,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 4
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
