@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+  rss:
   twitter: https://x.com/uclnpp
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -89,7 +89,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 4
+paginate: 6
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
