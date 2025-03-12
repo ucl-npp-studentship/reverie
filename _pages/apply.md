@@ -6,7 +6,7 @@ permalink: /apply/
 
 ## Eligibility Criteria
 
-The studentship program is open to all current undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. 
+The studentship program is open to all second, third, or fourth year undergraduate students in the UCL Department of Neuroscience, Physiology, and Pharmacology. 
 
 ## Submitting an Application
 
