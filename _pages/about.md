@@ -9,3 +9,5 @@ The [UCL Department of Neuroscience, Physiology and Pharmacology](https://www.uc
 <h2>For Prospective Supervisors</h2>
 
 The studentship is intended to bring high quality undergraduates with valuable transferrable skills into your research group. Supervisors must commit to being available for the full duration of the studentship. Projects must be feasible for students with little or no previous research experience to complete within a 6-week placement. Projects requiring ethical approval must already have this in place at the time of application in order to be eligible for consideration. Experimentation on animals protected by UK/EU legislation should not be carried out by the student. A member of staff with the relevant license should undertake this work.
+
+Please note that we may also have funding to supplement one externally funded summer studentship, in line with UCL's policy of paying the London living wage. Please contact either Stephanie or Dan for further information.
