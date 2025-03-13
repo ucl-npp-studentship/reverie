@@ -32,4 +32,4 @@ Please be aware that we will collect anonymised equality, diversity and inclusio
 
 ## Timeline
 
-Applications can be submitted any time from the 1st of April 2025 up to the 1st of May 2025. Students should expect to hear whether their application was successful within a fortnight of the application deadline.
+Applications can be submitted any time up to the 1st of May 2025. Students should expect to hear whether their application was successful within a fortnight of the application deadline.
